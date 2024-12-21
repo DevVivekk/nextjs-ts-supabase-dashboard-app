@@ -1,0 +1,83 @@
+[
+    {
+      "studentName": "John Doe",
+      "cohort": "AY 2024-25",
+      "courses": ["CBSE 9 SCIENCE", "CBSE 9 MATH"],
+      "dateJoined": "15.Sep.2023",
+      "lastLogin": "18.Dec.2023 4:20pm",
+      "status": true
+    },
+    {
+      "studentName": "Jane Smith",
+      "cohort": "AY 2024-25",
+      "courses": ["CBSE 9 SCIENCE", "CBSE 9 MATH"],
+      "dateJoined": "01.Oct.2023",
+      "lastLogin": "19.Dec.2023 3:45pm",
+      "status": true
+    },
+    {
+      "studentName": "Mark Johnson",
+      "cohort": "AY 2024-25",
+      "courses": ["CBSE 9 SCIENCE", "CBSE 9 MATH"],
+      "dateJoined": "25.Aug.2023",
+      "lastLogin": "20.Dec.2023 2:30pm",
+      "status": false
+    },
+    {
+      "studentName": "Emily Davis",
+      "cohort": "AY 2024-25",
+      "courses": ["CBSE 9 SCIENCE", "CBSE 9 MATH"],
+      "dateJoined": "05.Nov.2023",
+      "lastLogin": "17.Dec.2023 5:00pm",
+      "status": true
+    },
+    {
+      "studentName": "Michael Brown",
+      "cohort": "AY 2024-25",
+      "courses": ["CBSE 9 SCIENCE", "CBSE 9 MATH"],
+      "dateJoined": "20.Jul.2023",
+      "lastLogin": "10.Dec.2023 9:10am",
+      "status": false
+    },
+    {
+      "studentName": "Sarah Wilson",
+      "cohort": "AY 2024-25",
+      "courses": ["CBSE 9 SCIENCE", "CBSE 9 MATH"],
+      "dateJoined": "12.Sep.2023",
+      "lastLogin": "18.Dec.2023 3:00pm",
+      "status": true
+    },
+    {
+      "studentName": "David Lee",
+      "cohort": "AY 2024-25",
+      "courses": ["CBSE 9 SCIENCE", "CBSE 9 MATH"],
+      "dateJoined": "25.Oct.2023",
+      "lastLogin": "11.Dec.2023 10:30am",
+      "status": false
+    },
+    {
+      "studentName": "Olivia Martinez",
+      "cohort": "AY 2024-25",
+      "courses": ["CBSE 9 SCIENCE", "CBSE 9 MATH"],
+      "dateJoined": "30.Jun.2023",
+      "lastLogin": "05.Dec.2023 8:00am",
+      "status": true
+    },
+    {
+      "studentName": "William Harris",
+      "cohort": "AY 2024-25",
+      "courses": ["CBSE 9 SCIENCE", "CBSE 9 MATH"],
+      "dateJoined": "18.May.2023",
+      "lastLogin": "22.Nov.2023 11:10am",
+      "status": true
+    },
+    {
+      "studentName": "Isabella Clark",
+      "cohort": "AY 2024-25",
+      "courses": ["CBSE 9 SCIENCE", "CBSE 9 MATH"],
+      "dateJoined": "10.Aug.2023",
+      "lastLogin": "19.Dec.2023 2:45pm",
+      "status": true
+    }
+  ]
+  

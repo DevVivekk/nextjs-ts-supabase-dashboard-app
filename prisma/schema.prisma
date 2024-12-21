@@ -1,0 +1,20 @@
+// prisma/schema.prisma
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL") // Your Supabase database URL here
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Student {
+  id          Int      @id @default(autoincrement())
+  studentName String
+  cohort      String
+  courses     String[]
+  dateJoined  DateTime
+  lastLogin   DateTime
+  status      Boolean
+}
