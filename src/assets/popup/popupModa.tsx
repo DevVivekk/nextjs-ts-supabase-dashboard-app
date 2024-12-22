@@ -50,7 +50,7 @@ const Modal = ({ isOpen, studentData, onClose }: ModalProps) => {
       alert('Failed request!');
     }
 
-    console.log('Saved student data:', { studentName, cohort, courses, status });
+//    console.log('Saved student data:', { studentName, cohort, courses, status });
     onClose();
   };
   const handleDelete = async () => {
@@ -67,7 +67,7 @@ const Modal = ({ isOpen, studentData, onClose }: ModalProps) => {
       alert('Failed request!');
     }
 
-    console.log('Saved student data:', { studentName, cohort, courses, status });
+    //console.log('Saved student data:', { studentName, cohort, courses, status });
     onClose();
   };
   const handleAdd = async () => {
@@ -85,7 +85,7 @@ const Modal = ({ isOpen, studentData, onClose }: ModalProps) => {
       alert('Failed request!');
     }
 
-    console.log('Saved student data:', { studentName, cohort, courses, status});
+    //console.log('Saved student data:', { studentName, cohort, courses, status});
     onClose(); 
   };
 

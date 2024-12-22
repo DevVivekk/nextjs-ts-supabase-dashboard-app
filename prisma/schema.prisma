@@ -2,7 +2,7 @@
 
 datasource db {
   provider = "postgresql"
-  url      = env("DATABASE_URL") // Your Supabase database URL here
+  url      = env("DATABASE_URL") // supabse url
 }
 
 generator client {

@@ -19,7 +19,7 @@ const Table = () => {
   const data = useSelector((state:RootState)=>state.studentReducer.students);
   const status = useSelector((state: RootState) => state.studentReducer.status);
   const error = useSelector((state: RootState) => state.studentReducer.error);
-  console.log(data);
+  //console.log(data);
   const dispatch: AppDispatch = useDispatch(); 
   useEffect(()=>{
     if (status === 'idle') {

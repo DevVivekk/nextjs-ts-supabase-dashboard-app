@@ -57,7 +57,7 @@ export const studentSlice = createSlice({
           studentName,
           cohort,
           courses,
-          status,
+          status
         };
       }
     },
